@@ -32,3 +32,6 @@ python main.py
 │   └── tech-stack.md     # 技术选型
 └── 开发日志/         # 每日开发记录
 ```
+
+
+第一个vibe coding出来的软件，纪念一下。
