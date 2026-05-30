@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "electron": "^28.3.3",
+    "sql.js": "^1.14.1"
+  }
+}
